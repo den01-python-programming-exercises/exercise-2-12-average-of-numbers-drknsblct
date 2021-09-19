@@ -12,7 +12,7 @@ def main():
         count += 1
         sum += num
         
-    print('Average of the numbers: ' + str(sum/count))
+    print('Average of numbers: ' + str(sum/count))
 
     
 
